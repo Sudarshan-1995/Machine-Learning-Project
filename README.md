@@ -1,1 +1,3 @@
-Performing exploratory data analysis and cluster analysis to create cohort of songs. The goal is to gain a better understanding of the various factors that contribute to creating a cohort of songs.
+ML Project 01 - Performing exploratory data analysis and cluster analysis to create cohort of songs. The goal is to gain a better understanding of the various factors that contribute to creating a cohort of songs.
+ML Project 02 - Portobello Tech is an app innovator company in which HR department owns the data and uses it analyze the number of employees who leave the company over a certain period of time. Performed Exploratory data analysis, Cluster analysis, SMOTE technique, K fold cross validation model.
+ML Project 03 - To identify the cause and develop a system to predict heart attacks in an effective manner. 
